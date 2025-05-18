@@ -1,2 +1,3 @@
 # Python-Journey
 i will be learning python from scrach to immediate...
+18/5/2025 - hello.py i write code on greeting in that i used print() in built function. 
